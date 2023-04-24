@@ -1,0 +1,214 @@
+body {
+    background-color: #f8eee4;
+}
+.tabla {
+    background-color: #fdfbda;
+    border: 0.08em solid black;
+    box-shadow: 1px 1px 0px 0px rgba(0,0,0,0.75);
+    width: 40em;
+    height: 9em;
+    margin-top: 15em;
+    margin-left: 25%;
+}
+.linea1 {
+    background-color: #689867;
+    border: 0.08em solid black;
+    width: 39.75em;
+    height: 1.3em;
+    margin-top: 0.08em;
+    margin-left: 0.04em;
+}
+.titulotabla {
+    color: #831b1b;
+    margin-top: 0.08em;
+    margin-left: 24%;
+}
+.colum1linea2 {
+    background-color: #ffcb99;
+    border: 0.08em solid black;
+    width: 18.95em;
+    height: 3.05em;
+    margin-top: 0.05em;
+    margin-left: 0.04em;
+}
+.texto01 {
+    color: #9e1b1b;
+    margin-left: 6em;
+    margin-top: 0.9em;
+}
+.colum2linea2-1 {
+    background-color: #ffcb99;
+    border: 0.08em solid black;
+    width: 13.45em;
+    height: 1.425em;
+    margin-top: -3.15em;
+    margin-left: 19.17em;
+}
+.texto02 {
+    color: #9e1b1b;
+    margin-left: 5em;
+    margin-top: 0.05em;
+}
+.colum2-1linea2-2{
+    background-color: #fdfe9b;
+    border: 0.08em solid black;
+    width: 5.95em;
+    height: 1.425em;
+    margin-top: 0.05em;
+    margin-left: 19.17em;
+}
+.texto03 {
+    color: #9e1b1b;
+    margin-left: 0.7em;
+    margin-top: 0.1em;
+}
+.colum2-2linea2-2 {
+    background-color: #fdfe9b;
+    border: 0.08em solid black;
+    width: 7.35em;
+    height: 1.425em;
+    margin-top: -1.55em;
+    margin-left: 25.3em;
+}
+.texto04 {
+    color: #9e1b1b;
+    margin-left: 1.55em;
+    margin-top: 0.1em;
+}
+.colum3linea2 {
+    background-color: #ffcb99;
+    border: 0.08em solid black;
+    width: 7em;
+    height: 3.05em;
+    margin-top: -3.15em;
+    margin-left: 32.8em;
+}
+.texto05 {
+    color: #9e1b1b;
+    margin-left: 1.45em;
+    margin-top: 0.9em;
+}
+.linea34y5 {
+    background-image: url(/img/huellas.png);
+    width: 39.75em;
+    height: 4.1em;
+    margin-top: 0.04em;
+    margin-left: 0.04em;
+}
+.colum1linea3 {
+    border: 0.08em solid black;
+    width: 18.95em;
+    height: 1.3em;
+    margin-top: 0.04em;
+}
+.texto06 {
+    color: #9e1b1b;
+    margin-left: 5em;
+    margin-top: 0.1em;
+}
+.colum2-1linea3 {
+    border: 0.08em solid black;
+    width: 5.9em;
+    height: 1.25em;
+    margin-top: -1.4em;
+    margin-left: 19.17em;
+}
+.texto07 {
+    color: #9e1b1b;
+    margin-left: 1em;
+    margin-top: 0.1em;
+}
+.colum2-2linea3 {
+    border: 0.08em solid black;
+    width: 7.3em;
+    height: 1.25em;
+    margin-top: -1.40em;
+    margin-left: 25.30em;
+}
+.texto08 {
+    color: #9e1b1b;
+    margin-left: 0.8em;
+    margin-top: 0.1em;
+}
+.colum3linea3 {
+    border: 0.08em solid black;
+    width: 6.95em;
+    height: 1.25em;
+    margin-top: -1.35em;
+    margin-left: 32.8em;
+}
+.texto09 {
+    color: #9e1b1b;
+    margin-left: 2em;
+    margin-top: 0.05em;
+}
+.colum1linea4 {
+    border: 0.08em solid black;
+    width: 18.95em;
+    height: 1.20em;
+    margin-top: 0.05em;
+}
+.texto10 {
+    color: #9e1b1b;
+    margin-left: 5.25em;
+    margin-top: 0.05em;
+}
+.colum2linea4 {
+    border: 0.08em solid black;
+    width: 13.40em;
+    height: 1.2em;
+    margin-top: -1.3em;
+    margin-left: 19.17em;
+}
+.texto11 {
+    color: #9e1b1b;
+    margin-left: 4.25em;
+    margin-top: 0.1em;
+}
+.colum3linea4 {
+    border: 0.08em solid black;
+    width: 6.95em;
+    height: 1.2em;
+    margin-top: -1.35em;
+    margin-left: 32.8em;
+}
+.texto12 {
+    color: #9e1b1b;
+    margin-left: 2em;
+    margin-top: 0.05em;
+}
+.colum1linea5 {
+    border: 0.08em solid black;
+    width: 18.95em;
+    height: 1.2em;
+    margin-top: 0.05em;
+}
+.texto13 {
+    color: #9e1b1b;
+    margin-left: 4.25em;
+    margin-top: 0.05em;
+}
+.colum2linea5 {
+    border: 0.08em solid black;
+    width: 13.40em;
+    height: 1.2em;
+    margin-top: -1.3em;
+    margin-left: 19.17em;
+}
+.texto14 {
+    color: #9e1b1b;
+    margin-left: 5.5em;
+    margin-top: 0.05em;
+}
+.colum3linea5 {
+    border: 0.08em solid black;
+    width: 6.95em;
+    height: 1.2em;
+    margin-top: -1.35em;
+    margin-left: 32.8em;
+}
+.texto15 {
+    color: #9e1b1b;
+    margin-left: 1.60em;
+    margin-top: 0.05em;
+}
